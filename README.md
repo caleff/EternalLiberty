@@ -126,8 +126,101 @@ Five Eyes-based (Magenta)<br/>
 Nigeria-based (Bronze)<br/>
 Location agnostic or based out of multiple countries (Grey)<br/>
 Cybercrime group (White)
-</p>
+Georgia: Rose<br/>
+Pakistan: Green<br/>
+Palestine: Grey<br/>
+Turkey: Teal<br/>
+Vietnam: Scarlet<br/>
 
-### Microsoft 
+### Checkpoint
+<p>
+China: (Zebra)<br/>
+Iran: (Kitten)<br/>
+Lebanon: Cedar<br/>
+
+### CrowdStrike
+<p>
+China: Panda<br/>
+Colombia: Ocelot<br/>
+Georgia: Lynx<br/>
+India: Tiger<br/>
+Iran: Kitten<br/>
+North Korea: Chollima<br/>
+South Korea: Crane<br/>
+Pakistan: Leopard<br/>
+Russia: Bear<br/>
+Turkey: Wolf<br/>
+Syria: Hawk<br/>
+Vietnam: Buffalo<br/>
+eCrime Financial: Spider<br/>
+Hacktivist: Jackal<br/>
+Espionage: Bat<br/>
+
+### Kaspersky
+<p>
+China: Dragon<br/>
+India: Elephant<br/>
+Iran: Falcon<br/>
+Pakistan: Falcon<br/>
+Palestine: Falcon<br/>
+Russia: Duke<br/>
+Turkey: Falcon<br/>
+Arab Countries: Falcon<br/>
+
+### PaloAlto Unit42
+<p>
+China: Taurus<br/>
+India: Gemini<br/>
+Iran: Serpents<br/>
+North Korea: Pisces<br/>
+Pakistan: Draco<br/>
+Russia: Ursa<br/>
+BEC: Orion<br/>
+eCrime Financial: Libra<br/>
+Hacktivist: Virgo<br/>
+Ransomware: Scorpius<br/>
+Espionage: Virgo<br/>
+Temporary: CL..., CRI..., STA..., MIX..., UNK...<br/>
+
+### TrendMicro<br/>
+<p>
+China: (Earth)<br/>
+Colombia: (Earth)<br/>
+Georgia: (Earth)<br/>
+India: (Earth)<br/>
+Iran: (Kitten)<br/>
+Nort Korea: (Earth)<br/>
+South Korea: (Earth)<br/>
+Lebanon: (Earth)<br/>
+Nigeria: (Earth)<br/>
+Pakistan: (Earth)<br/>
+Palestine: (Earth)<br/>
+Russia: (Earth)<br/>
+Turkey: (Earth)<br/>
+United States: (Earth)<br/>
+Syria: (Earth)<br/>
+Vietnam: (Earth)<br/>
+Five Eyes: (Earth)<br/>
+Unknown Uncategorized: Void<br/>
+eCrime Financial: Water<br/>
+Hacktivist: Wind<br/>
+Espionage: Earth<br/>
+Damage Destruction: Fire<br/>
+
+### Microsoft
+<p>
+China: Typhoon<br/>
+Iran: Sandstorm<br/>
+North Korea: Sleet<br/>
+South Korea: Hail<br/>
+Lebanon: Rain<br/>
+Russia: Blizzard<br/>
+Turkey: Dust<br/>
+Vietnam: Cyclone<br/>
+eCrime Financial: Tempest<br/>
+Temporary: Storm<br/>
+Offensive Private: Tsunami<br/>
+Influence Operations: Flood
+<p>
 ![image](https://user-images.githubusercontent.com/54320855/233427302-73400949-bd55-4196-b909-d78724b45ae9.png)
 *Credits: Microsoft*
